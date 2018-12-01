@@ -17,3 +17,4 @@ public interface Car {
 	
 
 }
+// 5+5 = 10
